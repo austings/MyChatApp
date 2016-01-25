@@ -1,6 +1,6 @@
 # MyChatApp 
 
 MyChatApp is a P2P chat application built in java.
-Simply run the jar file or the shortcut in the main 
-repository to start it. From there you can enter the
-P2P group and port, or just use the default.
+Open up the project and run it from the IDE to check it out.
+Enter a group name and port, as well as username, and you're ready
+to get started.
