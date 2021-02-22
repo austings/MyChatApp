@@ -6,6 +6,6 @@ The app uses a Model View Controller format for organizing its class structure, 
 
 Open up the project and run it from the IDE to check it out.
 Enter a group name and port when the prompt appears, as well as username- and you're ready
-to get started. 
+to get started.
 
 ![alt tag](https://github.com/austings/MyChatApp/blob/master/preview2.png)
