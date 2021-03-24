@@ -9,3 +9,4 @@ Enter a group name and port when the prompt appears, as well as username- and yo
 to get started.
 
 ![alt tag](https://github.com/austings/MyChatApp/blob/master/preview2.png)
+ 
